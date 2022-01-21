@@ -389,6 +389,7 @@
     <icon drawable="@drawable/themed_icon_naptime" package="com.franco.doze" />
     <icon drawable="@drawable/themed_icon_nekogram" package="nekox.messenger" />
     <icon drawable="@drawable/themed_icon_nekogram" package="tw.nekomimi.nekogram" />
+    <icon drawable="@drawable/themed_icon_netease" package="com.netease.cloudmusic" />
     <icon drawable="@drawable/themed_icon_netflix" package="com.netflix.mediaclient" />
     <icon drawable="@drawable/themed_icon_newpipe" package="org.schabi.newpipe" />
     <icon drawable="@drawable/themed_icon_news" package="com.google.android.apps.magazines" />
@@ -562,6 +563,7 @@
     <icon drawable="@drawable/themed_icon_sysuitunernoads" package="org.aospstudio.systemtuner" />
     <icon drawable="@drawable/themed_icon_tachij2k" package="eu.kanade.tachiyomi.j2k" />
     <icon drawable="@drawable/themed_icon_tachiyomi" package="eu.kanade.tachiyomi" />
+    <icon drawable="@drawable/themed_icon_taobao" package="com.taobao.taobao" />
     <icon drawable="@drawable/themed_icon_tapatalk_pro" package="com.quoord.tapatalk" />
     <icon drawable="@drawable/themed_icon_tasks" package="com.google.android.apps.tasks" />
     <icon drawable="@drawable/themed_icon_ted" package="com.ted.android" />
@@ -638,6 +640,7 @@
     <icon drawable="@drawable/themed_icon_wavelet" package="com.pittvandewitt.wavelet" />
     <icon drawable="@drawable/themed_icon_waze" package="com.waze" />
     <icon drawable="@drawable/themed_icon_wear_os" package="com.google.android.wearable.app" />
+    <icon drawable="@drawable/themed_icon_wechat" package="com.tencent.mm" />
     <icon drawable="@drawable/themed_icon_weheartit" package="com.weheartit" />
     <icon drawable="@drawable/themed_icon_whatsapp" package="com.fmwhatsapp" />
     <icon drawable="@drawable/themed_icon_whatsapp" package="com.gbwhatsapp" />
