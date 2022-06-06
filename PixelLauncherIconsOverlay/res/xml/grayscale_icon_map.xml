@@ -110,7 +110,7 @@
     <icon drawable="@drawable/themed_icon_files" package="com.android.documentsui" />
     <icon drawable="@drawable/themed_icon_files" package="com.google.android.apps.nbu.files" />
     <icon drawable="@drawable/themed_icon_files" package="com.google.android.documentsui" />
-    <icon drawable="@drawable/themed_icon_find_my_device" package="com.google.android.apps.adm" />
+    <icon drawable="@drawable/themed_icon_android_find_my_device" package="com.google.android.apps.adm" />
     <icon drawable="@drawable/themed_icon_firefox" package="org.mozilla.fenix" />
     <icon drawable="@drawable/themed_icon_firefox" package="org.mozilla.firefox" />
     <icon drawable="@drawable/themed_icon_fk" package="com.franco.kernel" />
@@ -395,4 +395,9 @@
     <icon drawable="@drawable/themed_icon_netease" package="com.netease.cloudmusic" />
     <icon drawable="@drawable/themed_icon_wechat" package="com.tencent.mm" />
     <icon drawable="@drawable/themed_icon_taobao" package="com.taobao.taobao" />
+    <icon drawable="@drawable/themed_icon_voice" package="com.google.android.apps.googlevoice" />
+    <icon drawable="@drawable/themed_icon_nest" package="com.nest.android" />
+    <icon drawable="@drawable/themed_icon_earth" package="com.google.earth" />
+    <icon drawable="@drawable/themed_icon_fitbit" package="com.fitbit.FitbitMobile" />
+    <icon drawable="@drawable/themed_icon_admin" package="com.google.android.apps.enterprise.cpanel" />
 </icons>
