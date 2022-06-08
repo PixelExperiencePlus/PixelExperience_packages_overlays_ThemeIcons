@@ -237,6 +237,7 @@
     <icon drawable="@drawable/themed_icon_fusewalls" package="com.fusionos.fusewalls" />
     <icon drawable="@drawable/themed_icon_fx" package="nextapp.fx" />
     <icon drawable="@drawable/themed_icon_g_translate" package="com.google.android.apps.translate" />
+    <icon drawable="@drawable/themed_icon_gallery" package="com.oneplus.gallery" />
     <icon drawable="@drawable/themed_icon_gallery_go" package="com.google.android.apps.photosgo" />
     <icon drawable="@drawable/themed_icon_gapo" package="vn.gapo.app" />
     <icon drawable="@drawable/themed_icon_garanti" package="com.garanti.cepsubesi" />
