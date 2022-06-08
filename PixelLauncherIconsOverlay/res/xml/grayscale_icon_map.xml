@@ -122,6 +122,7 @@
     <icon drawable="@drawable/themed_icon_g_translate" package="com.google.android.apps.translate" />
     <icon drawable="@drawable/themed_icon_gallery" package="com.alensw.picfolder" />
     <icon drawable="@drawable/themed_icon_gallery" package="com.android.gallery3d" />
+    <icon drawable="@drawable/themed_icon_gallery" package="com.oneplus.gallery" />
     <icon drawable="@drawable/themed_icon_gallery" package="com.simplemobiletools.gallery.pro" />
     <icon drawable="@drawable/themed_icon_gallery" package="com.simplemobiletools.gallery.pro" />
     <icon drawable="@drawable/themed_icon_gallery" package="com.tclhz.gallery" />
