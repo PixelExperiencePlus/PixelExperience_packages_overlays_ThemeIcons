@@ -251,6 +251,7 @@
     <icon drawable="@drawable/themed_icon_glovo" package="com.glovo" />
     <icon drawable="@drawable/themed_icon_gmail" package="com.google.android.gm" />
     <icon drawable="@drawable/themed_icon_gojek" package="com.gojek.app" />
+    <icon drawable="@drawable/themed_icon_google" package="com.google.android.apps.searchlite" />
     <icon drawable="@drawable/themed_icon_google" package="com.google.android.googlequicksearchbox" />
     <icon drawable="@drawable/themed_icon_google_assistant" package="com.google.android.apps.googleassistant" />
     <icon drawable="@drawable/themed_icon_google_fi" package="com.google.android.apps.tycho" />
