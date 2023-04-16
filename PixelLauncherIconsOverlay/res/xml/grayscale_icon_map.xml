@@ -276,6 +276,7 @@
     <icon drawable="@drawable/themed_icon_camera" package="com.GoogleCamera.Burial" />
     <icon drawable="@drawable/themed_icon_camera" package="com.googleCamera.Wichaya8" />
     <icon drawable="@drawable/themed_icon_camera" package="com.hasli.lmc84r12f.red" />
+    <icon drawable="@drawable/themed_icon_camera" package="com.motorola.camera3" />
     <icon drawable="@drawable/themed_icon_camera" package="com.ngcam.camera" />
     <icon drawable="@drawable/themed_icon_camera" package="com.oneplus.camera" />
     <icon drawable="@drawable/themed_icon_camera" package="com.samsung.android.biometrics.service" />
