@@ -280,9 +280,7 @@
     <icon drawable="@drawable/themed_icon_camera" package="com.GoogleCamera.Burial" />
     <icon drawable="@drawable/themed_icon_camera" package="com.googleCamera.Wichaya8" />
     <icon drawable="@drawable/themed_icon_camera" package="com.hasli.lmc84r12f.red" />
-    <icon drawable="@drawable/themed_icon_camera" package="com.motorola.camera3" />
     <icon drawable="@drawable/themed_icon_camera" package="com.ngcam.camera" />
-    <icon drawable="@drawable/themed_icon_camera" package="com.oneplus.camera" />
     <icon drawable="@drawable/themed_icon_camera" package="com.samsung.android.biometrics.service" />
     <icon drawable="@drawable/themed_icon_camera" package="com.samsung.android.ruler" />
     <icon drawable="@drawable/themed_icon_camera" package="com.samsung.android.scan3d" />
@@ -793,6 +791,7 @@
     <icon drawable="@drawable/themed_icon_money_manager" package="com.realbyteapps.moneymanagerfree" />
     <icon drawable="@drawable/themed_icon_moon_reader" package="com.flyersoft.moonreader" />
     <icon drawable="@drawable/themed_icon_moon_reader_pro" package="com.flyersoft.moonreaderp" />
+    <icon drawable="@drawable/themed_icon_moto_camera" package="com.motorola.camera3" />
     <icon drawable="@drawable/themed_icon_mtmanager" package="bin.mt.plus" />
     <icon drawable="@drawable/themed_icon_mtmanager" package="bin.mt.plus.canary" />
     <icon drawable="@drawable/themed_icon_mts" package="ru.mts.mymts" />
