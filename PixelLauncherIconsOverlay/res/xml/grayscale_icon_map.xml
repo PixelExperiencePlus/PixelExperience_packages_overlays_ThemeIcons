@@ -417,6 +417,7 @@
     <icon drawable="@drawable/themed_icon_doodle" package="xyz.zedler.patrick.doodle"/>
     <icon drawable="@drawable/themed_icon_doppelreim" package="com.double_rhyme.hoenickf.doppelreim"/>
     <icon drawable="@drawable/themed_icon_dota_underlords" package="com.valvesoftware.underlords"/>
+    <icon drawable="@drawable/themed_icon_douban" package="com.douban.frodo"/>
     <icon drawable="@drawable/themed_icon_douyu" package="com.douyu.rush"/>
     <icon drawable="@drawable/themed_icon_douyu" package="air.tv.douyu.android"/>
     <icon drawable="@drawable/themed_icon_drive" package="com.google.android.apps.docs"/>
